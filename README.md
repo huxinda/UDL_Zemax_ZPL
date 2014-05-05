@@ -7,7 +7,7 @@ Notepad++ User Defined Language for Zemax ZPL macro
 
   --- _color theme modified from Solarized (http://ethanschoonover.com/solarized)_
 
-  --- _keyword auto-completion and numeric/string function calltips (work in progress)_
+  --- _keyword auto-completion and numeric/string function calltips (work in progress, contact me if you'd like to contribute)_
   
   ---
 
