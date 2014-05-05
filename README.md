@@ -21,7 +21,7 @@ There will be two version (see **screenshots**, http://goo.gl/ISi9eW):
 
 ###[HOW TO USE]
 
-The User Defined Language(UDL) style files are for Notepad++ (developed on v6.5, http://notepad-plus-plus.org/), working in conjunction with the two default Solarized theme (Solarized-light and Solarzied), respectively.
+The User Defined Language(UDL) style files are for Notepad++ (developed on NPP v6.5, http://notepad-plus-plus.org/), working in conjunction with the two default Solarized theme (Solarized-light and Solarzied), respectively.
 
 1. Launch NPP, depending on which brightness version you want to use, set the overall theme first:
 
