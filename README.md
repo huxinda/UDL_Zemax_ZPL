@@ -6,6 +6,8 @@ Notepad++ User Defined Language for Zemax ZPL macro
   --- _syntax highlighting for Zemax ZPL macro (http://zemax.com/)_
 
   --- _color theme modified from Solarized (http://ethanschoonover.com/solarized)_
+  
+  --- _code folding for IF/FOR statements, comments and region blocks_
 
   --- _keyword auto-completion and numeric/string function calltips (work in progress, contact me if you'd like to contribute)_
   
