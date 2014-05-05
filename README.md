@@ -15,7 +15,7 @@ There will be two version (see **screenshots**, http://goo.gl/ISi9eW):
 
 1. Light: **_UDL_ZPL_SolarizedLight.xml_**  (updated on May-04-2014)
 
-2. Dark:  **_ULD_ZPL_SolarizedDark.xml_**   (not yet uploaded)
+2. Dark:  **_UDL_ZPL_SolarizedDark.xml_**   (not yet uploaded)
 
 ###[HOW TO USE]
 
