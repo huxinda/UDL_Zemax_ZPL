@@ -13,7 +13,7 @@ Notepad++ User Defined Language for Zemax ZPL macro
 
 There will be two version:
 
-1. Light: *UDL_ZPL_SolarizedLight.xml*  (updated on May-04-2014, see **screenshot**)
+1. Light: *UDL_ZPL_SolarizedLight.xml*  (updated on May-04-2014, see **screenshot**, http://goo.gl/ISi9eW)
 
 2. Dark:  *ULD_ZPL_SolarizedDark.xml*   (not yet uploaded)
 
