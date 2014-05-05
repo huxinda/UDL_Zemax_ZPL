@@ -11,7 +11,7 @@ Notepad++ User Defined Language for Zemax ZPL macro
 
 There will be two version:
 
-1. Light: *UDL_ZPL_SolarizedLight.xml*  (updated on May-04-2014, see screenshot)
+1. Light: *UDL_ZPL_SolarizedLight.xml*  (updated on May-04-2014, see **screenshot**)
 
 2. Dark:  *ULD_ZPL_SolarizedDark.xml*   (not yet uploaded)
 
@@ -38,3 +38,6 @@ The User Defined Language(UDL) style files are for Notepad++ (developed on v6.5)
 5. If you want to change the color or style, go to
 
   _[Language -> Define your language]_ and make changes.
+  
+
+Contact me @ xhu@optics.arizona.edu
