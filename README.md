@@ -17,7 +17,7 @@ There will be two version (see **screenshots**, http://goo.gl/ISi9eW):
 
 2. Dark:  **_ULD_ZPL_SolarizedDark.xml_**   (not yet uploaded)
 
-[HOW TO USE]
+###[HOW TO USE]
 
 The User Defined Language(UDL) style files are for Notepad++ (developed on v6.5, http://notepad-plus-plus.org/), working in conjunction with the two default Solarized theme (Solarized-light and Solarzied), respectively.
 
@@ -41,5 +41,6 @@ The User Defined Language(UDL) style files are for Notepad++ (developed on v6.5,
 
   _[Language -> Define your language]_ and make changes.
   
+
 
 Contact me @ xhu@optics.arizona.edu
