@@ -46,3 +46,8 @@ The User Defined Language(UDL) style files are for Notepad++ (developed on NPP v
 
 
 Contact me @ xhu@optics.arizona.edu
+
+=======================
+
+_This work is inspired by work of Dr. Indranil Sinharoy (http://indranilsinharoy.com/2013/06/02/zplmacrosyntaxhighlight/)_
+_Check out Dr. Sinharoy's another great work PyZDDE, Accessing ZEMAX from Python (http://indranilsinharoy.com/2013/06/27/accessing-zemax-from-python-using-pyzdde/)_
