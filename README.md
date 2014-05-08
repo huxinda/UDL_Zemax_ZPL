@@ -30,23 +30,23 @@ The User Defined Language(UDL) style files are for Notepad++ (developed on NPP v
 
 1. Launch NPP, depending on which brightness version you want to use, set the overall theme first:
 
-  _[Setting -> Style Configurator -> Select theme -> Solarized-light/Solarized]_
+    _[Setting -> Style Configurator -> Select theme -> Solarized-light/Solarized]_
 
-  The font style can also be set in the Style Configurator.
+    The font style can also be set in the Style Configurator.
 
 2. Import the downloaded UDL style XML file, i.e. UDL_ZPL_SolarizedLight/Dark.xml.
 
-  _[Language -> Define your language -> Import]_
+    _[Language -> Define your language -> Import]_
 
 3. Restart NPP
 
 4. Open a .ZPL file and the color syntax shoud work automatically. If not, select it manually by
 
-  _[Language -> ZPL_SolarL/ZPL_SolarD]_
+    _[Language -> ZPL_SolarL/ZPL_SolarD]_
 
 5. If you want to change the color or style, go to
 
-  _[Language -> Define your language]_ and make changes.
+    _[Language -> Define your language]_ and make changes.
   
 ###[HOW TO USE #2 - Auto-complete and function calltips]
 
@@ -54,21 +54,21 @@ The autocomplete files (APIs) are for Notepad++ (developed on NPP v6.5, http://n
 
 1. Place the API files, i.e. ZPL_SolarL.xml or ZPL_SolarD.xml in Notepad++ installation folder
 
-  _Program Files (x86)\Notepad++\plugins\APIs_
+    _Program Files (x86)\Notepad++\plugins\APIs_
 
 2. Turn on Autocomplete in NPP
 
-  _[Settings -> Preferences -> Auto-Completion -> Enable...]_
+    _[Settings -> Preferences -> Auto-Completion -> Enable...]_
   
   Suggest to turn on "Function completion" only and from 2nd character.
   
 3. Turn on function calltip hints, check the option:
 
-  _[Settings -> Preferences -> Auto-Completion -> Function parameters hint on input]_
+    _[Settings -> Preferences -> Auto-Completion -> Function parameters hint on input]_
   
-4. [Optional] Turn on Auto-Insert of matched pair of ( ), " " and ' '
+4. [_Optional_] Turn on Auto-Insert of matched pair of ( ), " " and ' '
 
-  _[Settings -> Preferences -> Auto-Completion -> Auto-Insert]_
+    _[Settings -> Preferences -> Auto-Completion -> Auto-Insert]_
 
 =======================
 
