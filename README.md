@@ -9,17 +9,22 @@ Notepad++ User Defined Language for Zemax ZPL macro
 
   --- _color theme modified from Solarized, easy on the eyes (http://ethanschoonover.com/solarized)_
 
-  --- _keyword auto-completion and numeric/string function calltips (work in progress, contact me if you'd like to contribute)_
+  --- _keyword auto-completion and numeric/string function calltips (Updated on May-08-2014)_
   
   ---
 
 There will be two version (see **screenshots**, http://goo.gl/ISi9eW):
 
-1. Light: **_UDL_ZPL_SolarizedLight.xml_**  (updated on May-04-2014)
+1. Light: **_UDL_ZPL_SolarizedLight.xml_**              (updated on May-08-2014)
+          
+          work with autocomplete file: ZPL_SolarL.xml
 
-2. Dark:  **_UDL_ZPL_SolarizedDark.xml_**   (not yet uploaded)
+2. Dark:  **_UDL_ZPL_SolarizedDark.xml_**               (not yet uploaded)
 
-###[HOW TO USE]
+          will work with autocomplete file: ZPL_SolarD.xml
+
+
+###[HOW TO USE #1 - Syntax Highlighting]
 
 The User Defined Language(UDL) style files are for Notepad++ (developed on NPP v6.5, http://notepad-plus-plus.org/), working in conjunction with the two default Solarized themes (Solarized-light and Solarzied), respectively.
 
@@ -29,7 +34,7 @@ The User Defined Language(UDL) style files are for Notepad++ (developed on NPP v
 
   The font style can also be set in the Style Configurator.
 
-2. Import the UDL style XML file.
+2. Import the downloaded UDL style XML file, i.e. UDL_ZPL_SolarizedLight/Dark.xml.
 
   _[Language -> Define your language -> Import]_
 
@@ -43,6 +48,27 @@ The User Defined Language(UDL) style files are for Notepad++ (developed on NPP v
 
   _[Language -> Define your language]_ and make changes.
   
+###[HOW TO USE #2 - Auto-complete and function calltips]
+
+The autocomplete files (APIs) are for Notepad++ (developed on NPP v6.5, http://notepad-plus-plus.org/)
+
+1. Place the API files, i.e. ZPL_SolarL.xml or ZPL_SolarD.xml in Notepad++ installation folder
+
+  _Program Files (x86)\Notepad++\plugins\APIs_
+
+2. Turn on Autocomplete in NPP
+
+  _[Settings -> Preferences -> Auto-Completion -> Enable...]_
+  
+  Suggest to turn on "Function completion" only and from 2nd character.
+  
+3. Turn on function calltip hints, check the option:
+
+  _[Settings -> Preferences -> Auto-Completion -> Function parameters hint on input]_
+  
+4. [Optional] Turn on Auto-Insert of matched pair of (), "" and ''
+
+  _[Settings -> Preferences -> Auto-Completion -> Auto-Insert]_
 
 
 Contact me @ xhu@optics.arizona.edu
