@@ -66,7 +66,7 @@ The autocomplete files (APIs) are for Notepad++ (developed on NPP v6.5, http://n
 
   _[Settings -> Preferences -> Auto-Completion -> Function parameters hint on input]_
   
-4. [Optional] Turn on Auto-Insert of matched pair of (), "" and ''
+4. [Optional] Turn on Auto-Insert of matched pair of ( ), " " and ' '
 
   _[Settings -> Preferences -> Auto-Completion -> Auto-Insert]_
 
