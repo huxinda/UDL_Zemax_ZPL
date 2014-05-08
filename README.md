@@ -11,7 +11,9 @@ Notepad++ User Defined Language for Zemax ZPL macro
 
   --- _keyword auto-completion and numeric/string function calltips (Updated on May-08-2014)_
   
-  ---
+  View an animation of above features, checkout the demo.gif
+
+---
 
 There will be two version (see **screenshots**, http://goo.gl/ISi9eW):
 
