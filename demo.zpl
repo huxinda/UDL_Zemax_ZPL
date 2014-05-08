@@ -30,10 +30,13 @@ NEXT
 
 ! Demonstration of autocomplete feature
 ! try RAYTRACE, $LEFTSTRING
+RAYTRACE
+$LEFTSTRING
 
 ! Demonstration of calltip function hints
 ! $GETSTRING, GETT
-
+$GETSTRING(A$,n)
+GETT(1,1,1)
 
 ! Do you like this? Try it!
 ! Download from Github: https://github.com/huxinda/
