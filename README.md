@@ -70,6 +70,7 @@ The autocomplete files (APIs) are for Notepad++ (developed on NPP v6.5, http://n
 
   _[Settings -> Preferences -> Auto-Completion -> Auto-Insert]_
 
+=======================
 
 Contact me @ xhu@optics.arizona.edu
 
