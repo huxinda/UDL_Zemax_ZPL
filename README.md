@@ -74,7 +74,7 @@ The autocomplete files (APIs) are for Notepad++ (developed on NPP v6.5, http://n
 
 =======================
 
-Contact me @ xhu@optics.arizona.edu
+Contact me @ huxinda@gmail.com
 
 =======================
 
